@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "916616753514",
+    "firebase_url": "https://chatapp-f7151.firebaseio.com",
+    "project_id": "chatapp-f7151",
+    "storage_bucket": "chatapp-f7151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916616753514:android:cbb349625c483813993513",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916616753514-itd5j4ij8jlr027ima970e2uro93436n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_tx_bb2syjRrTSQbzoXLEvdM1vTYdE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916616753514-itd5j4ij8jlr027ima970e2uro93436n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916616753514:android:8d9a97f88bd6ab2b993513",
+        "android_client_info": {
+          "package_name": "com.himanshuchat.himanshuchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916616753514-itd5j4ij8jlr027ima970e2uro93436n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_tx_bb2syjRrTSQbzoXLEvdM1vTYdE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916616753514-itd5j4ij8jlr027ima970e2uro93436n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916616753514:android:04846fbd5aa5e863993513",
+        "android_client_info": {
+          "package_name": "com.terminalApp.terminalApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916616753514-itd5j4ij8jlr027ima970e2uro93436n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_tx_bb2syjRrTSQbzoXLEvdM1vTYdE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916616753514-itd5j4ij8jlr027ima970e2uro93436n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
